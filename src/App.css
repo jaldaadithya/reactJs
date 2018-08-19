@@ -1,0 +1,16 @@
+nav#drawer a {
+  text-decoration: none; }
+
+nav ul#drawer-nav-items {
+  background-color: #c0ca33; }
+
+header#toolbar h2 {
+  margin: auto; }
+
+.avatar_size {
+  height: 100px;
+  width: 100px;
+  white-space: initial; }
+
+.md-card-title--one-line .md-card-title--title {
+  white-space: initial; }

@@ -1,0 +1,31 @@
+@import 'globals';
+nav{
+    &#drawer{
+        a{
+            text-decoration: none;
+        }
+    }
+    ul{
+        &#drawer-nav-items{
+            background-color: $md-lime-600;        
+        }
+    }
+}
+
+header{
+    &#toolbar{
+        h2{
+            margin: auto;
+        }
+    }
+}
+
+.avatar_size{
+    height : 100px;
+    width: 100px;
+    white-space: initial;
+}
+
+.md-card-title--one-line .md-card-title--title{
+    white-space: initial;
+}
